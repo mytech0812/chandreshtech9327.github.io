@@ -5,6 +5,15 @@
         "ShowAds": true,
         "Ads": [
             {
+                "MonetizationId": 2,
+                "MonetizerName": "AdMob",
+                "AdAppKey": "ca-app-pub-1993362206897244~2850560823",
+                "BannerAdKey": "ca-app-pub-1993362206897244/7719744128",
+                "InterstitialAdKey": "ca-app-pub-1993362206897244/7113239468",
+                "RewardedAdKey": "ca-app-pub-1993362206897244/4487076122",
+                "NativeAdKey": "ca-app-pub-3940256099942544/1044960115"
+            },
+            {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
                 "AdAppKey": "1487acc81",
